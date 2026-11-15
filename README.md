@@ -49,3 +49,9 @@ The original data files belong to DataCamp and are not included in this reposito
 - Pass requirement: accuracy above 0.75 on a held-out test set
 
 ## Repository structure
+
+## Tools
+Python, pandas, NumPy, PyTorch
+
+## Certification
+Completed as the practical exam for the DataCamp AI Engineer for Data Scientists certification.
