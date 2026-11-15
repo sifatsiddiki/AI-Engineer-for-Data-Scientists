@@ -50,6 +50,10 @@ The original data files belong to DataCamp and are not included in this reposito
 
 ## Repository structure
 
+AI-Engineer-for-Data-Scientists/
+├── notebook.ipynb # data cleaning, feature preparation, model training and predictions
+└── README.md
+
 ## Tools
 Python, pandas, NumPy, PyTorch
 
